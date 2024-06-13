@@ -1,4 +1,4 @@
 # stupidFlatearthers
 
-## This Project will incule silly things flerfs say/do
+## This Project will include silly things flerfs say/do
 
